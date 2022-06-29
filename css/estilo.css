@@ -1,5 +1,10 @@
 body{
     background-color: green;
-    color: rgb(, yellow, blue);
+    color: yellow;
 
+}
+
+h1{
+    font-size: 5em;
+color: blue;
 }
